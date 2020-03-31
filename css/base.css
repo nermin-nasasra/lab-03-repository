@@ -1,0 +1,28 @@
+
+    *{
+        font-family: 'Comic Neue', cursive;
+        color: rgba(0, 0, 0, 0.253);
+        width: 100%;
+    }
+    body{
+        background-color: rgb(189, 181, 169);
+    }
+    option{
+        color: rgb(70, 39, 39);
+    }
+    /* nav{
+        display: flex;
+        flex-wrap: nowrap;
+        background-color: DodgerBlue;
+        float: left;
+      }
+      
+      nav > input {
+        background-color: #f1f1f1;
+        width: 100px;
+        margin: 10px;
+        text-align: center;
+        line-height: 75px;
+        font-size: 30px;
+      
+      } */
